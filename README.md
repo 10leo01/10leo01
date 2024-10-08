@@ -1,5 +1,4 @@
-## 10Leo01
-## Bem-vindo(a) ao perfil do 10Leo01 😁
+## Bem-vindo(a) ao perfil do Leonardo Nunes 😁
 
  <div>
    <a href="https://github.com/10leo01">
